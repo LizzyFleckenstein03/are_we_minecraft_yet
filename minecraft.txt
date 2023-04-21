@@ -35,11 +35,6 @@ Azure Bluet
 Baked Potato
 Bamboo
 Banner Pattern
-Banner Pattern
-Banner Pattern
-Banner Pattern
-Banner Pattern
-Banner Pattern
 Barrel
 Barrier
 Basalt
@@ -670,20 +665,6 @@ Muddy Mangrove Roots
 Mule Spawn Egg
 Mushroom Stem
 Mushroom Stew
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
-Music Disc
 Music Disc
 Mycelium
 Name Tag
