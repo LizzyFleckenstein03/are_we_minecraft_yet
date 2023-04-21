@@ -4,11 +4,8 @@ minetest.after(3, function()
 
 	for name, def in pairs(minetest.registered_items) do
 		if def.description and not def.groups.not_in_creative_inventory then
-			local t = minetest.get_translated_string("", def.description)
+			local t = minetest.strip_colors(minetest.get_translated_string("", def.description))
 			local idx = t:find("\n")
-
-			t = minetest.strip_colors(t)
-
 			if idx then
 				t = t:sub(1, idx-1)
 			end
